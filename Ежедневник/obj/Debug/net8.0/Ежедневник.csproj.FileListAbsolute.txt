@@ -1,0 +1,14 @@
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\obj\Debug\net8.0\Ежедневник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\obj\Debug\net8.0\Ежедневник.AssemblyInfoInputs.cache
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\obj\Debug\net8.0\Ежедневник.AssemblyInfo.cs
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\obj\Debug\net8.0\Ежедневник.csproj.CoreCompileInputs.cache
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\bin\Debug\net8.0\Ежедневник.exe
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\bin\Debug\net8.0\Ежедневник.deps.json
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\bin\Debug\net8.0\Ежедневник.runtimeconfig.json
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\bin\Debug\net8.0\Ежедневник.dll
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\bin\Debug\net8.0\Ежедневник.pdb
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\obj\Debug\net8.0\Ежедневник.dll
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\obj\Debug\net8.0\refint\Ежедневник.dll
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\obj\Debug\net8.0\Ежедневник.pdb
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\obj\Debug\net8.0\Ежедневник.genruntimeconfig.cache
+C:\Users\insai\source\repos\Ежедневник\Ежедневник\obj\Debug\net8.0\ref\Ежедневник.dll
